@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Recycler Refresh</string>
+
+    <string name="label_refresh">Open RecyclerView</string>
+
+    <string name="loading_text">loading</string>
+    <string name="no_more">no more</string>
+
+    <string name="tab_normal">normal</string>
+    <string name="tab_float">float</string>
+    <string name="tab_pinned">pinned</string>
+
+    <string name="title">Glossary of terms:</string>
+    <string name="content">Adapter: A subclass of RecyclerView.Adapter responsible for providing views that represent items in a data set.
+Position: The position of a data item within an Adapter.
+Index: The index of an attached child view as used in a call to getChildAt(int). Contrast with Position.
+Binding: The process of preparing a child view to display data corresponding to a position within the adapter.
+Dirty (view): A child view that must be rebound by the adapter before being displayed.</string>
+</resources>
